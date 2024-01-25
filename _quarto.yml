@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jiwon Choi"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - text: "Projects"
+        menu: 
+        - events-tdw.qmd
+      - text: "CV"
+        href: pdfs/Jiwon_resume.pdf
+      - icon: github
+        href: https://github.com/jwonc4602
+      - icon: envelope
+        href: "mailto:jwon.choi@utoronto.ca"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
