@@ -1,0 +1,6 @@
+---
+title: "Analysis of Geographic and Demographic Patterns of Homelessness"
+---
+## Overview
+<img style="float:right; max-width: 50%; position: relative; padding: 10px; top: 0px;" src="images/HomelessShelter.png">
+This paper addresses the complex issue of homelessness in Toronto by conducting an in-depth analysis of the demographic and geographic trends in the city's shelter system. Despite Toronto's solid shelter system, there remain gaps in service that this study aims to highlight and address. Utilizing data from the Shelter Management Information System (SMIS), this paper aims to provide an updated and comprehensive view of urban homelessness, a topic often overlooked in contemporary research. View the full version of paper [here](https://github.com/jwonc4602/Analyzing-Geographic-and-Demographic-Patterns-of-Homelessness).
