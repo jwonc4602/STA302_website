@@ -7,7 +7,7 @@ about:
   image: images/avatar.jpg
   links:
     - text: "CV"
-      href: pdfs/Jiwon_resume.pdf
+      href: pdfs/Jiwon_Resume.pdf
     - icon: envelope
       text: "Email"
       href: "mailto:jwon.choi@mail.utoronto.ca"
@@ -17,7 +17,7 @@ about:
 
 ---
 
-Hi, I am <strong>Jiwon</strong>! I am studying <strong>Mathematical Sciences</strong>, <strong>Applied Statistics</strong>, and <strong> Computer Science</strong> at the University of Toronto :)
+Hi, I am <strong>Jiwon</strong>! I am studying <strong>Mathematical Sciences</strong>, <strong> Applied Statistics</strong>, and <strong> Computer Science</strong> at the University of Toronto :)
 
 I'm an avid learner who is always eager to learn and discover new things about the world. I'm currently based out of downtown Toronto and especially interested in Data Science and Machine Learning. I truly believe people can achieve more with technologies and this will never end! <strong>Feel free to look around and reach out to me!</strong> 
 						
