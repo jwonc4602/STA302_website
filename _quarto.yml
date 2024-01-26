@@ -10,7 +10,7 @@ website:
         text: Home
       - text: "Projects"
         menu: 
-        - events-tdw.qmd
+        - Analyzing-Geographic-and-Demographic-Patterns-of-Homelessness.qmd
       - text: "CV"
         href: pdfs/Jiwon_resume.pdf
       - icon: github
